@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849104399072",
+    "firebase_url": "https://nexthire-8ff67-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nexthire-8ff67",
+    "storage_bucket": "nexthire-8ff67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849104399072:android:ac57e80f88da0d2e243e85",
+        "android_client_info": {
+          "package_name": "com.nextHire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849104399072-c1v7kmndrcsmdiekq7b0mpqomrmj2ka1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextHire",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "849104399072-sgtec5ts6jgm8j8uqt101endn18q97ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBoaP_4NcKxlxpwpGB90epHm1ah4-7jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849104399072-sgtec5ts6jgm8j8uqt101endn18q97ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
